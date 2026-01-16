@@ -25,6 +25,7 @@ if (-not (Get-Command choco -ErrorAction SilentlyContinue)) {
 
 # Paso 4: Lista de programas a instalar usando Chocolatey
 $programas = @(
+    "vcredist2022",
     "winrar",
     "brave",
     "visualstudiocode",
