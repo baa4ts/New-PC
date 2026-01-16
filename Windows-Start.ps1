@@ -38,6 +38,7 @@ Write-Host "Instalando programas..."
 foreach ($programa in $programas) {
     Write-Host "Instalando $programa..."
     choco install $programa -y
+    Clear-Host  # Limpiar la consola después de cada instalación
 }
 
 Write-Host "¡Todas las instalaciones se han completado!"
