@@ -4,6 +4,7 @@
 Instala programas automáticamente en Windows 10 LTSC N.
 
 ## Programas que instala
+- Vcredist2022
 - WinRAR
 - Brave Browser
 - Visual Studio Code
