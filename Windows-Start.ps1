@@ -18,7 +18,8 @@ $programas = @(
     "winrar",
     "brave",
     "visualstudiocode",
-    "nodejs-lts"
+    "nodejs-lts",
+    "git"
 )
 
 # Ejecutar cada instalación en una ventana nueva con privilegios de administrador
