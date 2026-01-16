@@ -1,4 +1,4 @@
-# Script Windows 10 LTSC N
+# New-PC
 
 ## ¿Qué hace?
 Instala programas automáticamente en Windows 10 LTSC N.
